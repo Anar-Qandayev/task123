@@ -1,0 +1,14 @@
+C:\Users\ibm\source\repos\taskone\taskone\bin\Debug\netcoreapp3.1\taskone.exe
+C:\Users\ibm\source\repos\taskone\taskone\bin\Debug\netcoreapp3.1\taskone.deps.json
+C:\Users\ibm\source\repos\taskone\taskone\bin\Debug\netcoreapp3.1\taskone.runtimeconfig.json
+C:\Users\ibm\source\repos\taskone\taskone\bin\Debug\netcoreapp3.1\taskone.runtimeconfig.dev.json
+C:\Users\ibm\source\repos\taskone\taskone\bin\Debug\netcoreapp3.1\taskone.dll
+C:\Users\ibm\source\repos\taskone\taskone\bin\Debug\netcoreapp3.1\taskone.pdb
+C:\Users\ibm\source\repos\taskone\taskone\obj\Debug\netcoreapp3.1\taskone.csproj.AssemblyReference.cache
+C:\Users\ibm\source\repos\taskone\taskone\obj\Debug\netcoreapp3.1\taskone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibm\source\repos\taskone\taskone\obj\Debug\netcoreapp3.1\taskone.AssemblyInfoInputs.cache
+C:\Users\ibm\source\repos\taskone\taskone\obj\Debug\netcoreapp3.1\taskone.AssemblyInfo.cs
+C:\Users\ibm\source\repos\taskone\taskone\obj\Debug\netcoreapp3.1\taskone.csproj.CoreCompileInputs.cache
+C:\Users\ibm\source\repos\taskone\taskone\obj\Debug\netcoreapp3.1\taskone.dll
+C:\Users\ibm\source\repos\taskone\taskone\obj\Debug\netcoreapp3.1\taskone.pdb
+C:\Users\ibm\source\repos\taskone\taskone\obj\Debug\netcoreapp3.1\taskone.genruntimeconfig.cache
